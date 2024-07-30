@@ -1,0 +1,39 @@
+.character-by-location {
+  text-align: center;
+  padding: 20px;
+}
+
+.dropdown-container {
+  margin: 20px 0;
+}
+
+.location-dropdown {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  font-size: 16px;
+}
+
+.characters-container {
+  margin-top: 20px;
+}
+
+.characters-list {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+  display: inline-block;
+}
+
+.characters-list li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.characters-list li:hover {
+  background-color: #f1f1f1;
+}
